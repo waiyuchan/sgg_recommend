@@ -1,0 +1,8 @@
+SQLAlchemy==1.2.19
+numpy==1.16.3
+gensim==3.4.0
+Flask_SQLAlchemy==2.4.0
+Flask_RESTful==0.3.8
+Flask==1.0.2
+pandas==1.0.1
+Keras==2.3.1
